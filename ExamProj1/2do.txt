@@ -1,0 +1,20 @@
+Priority:
+
+    ScoreSystem
+Game States
+State1 StartScreen
+State2 Game
+state3 GameOver screen
+State4 Winning screen
+
+
+bonus: 
+
+colour system gradients
+read csv scores
+pick tracks
+
+
+bonus bonus:
+
+fix beat detection
